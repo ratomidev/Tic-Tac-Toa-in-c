@@ -4,11 +4,16 @@ To play it just you should give like input the the x and y axis.
 
 Exemple 
 inpute 1 1:
+
       x|.|. 
+      
       .|.|.
+      
       .|.|.
+      
 
 inpute 2 2 :
+
       x|.|. 
     
       .|o|.
